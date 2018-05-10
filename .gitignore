@@ -56,4 +56,8 @@ typings/
 
 # dotenv environment variables file
 .env
-
+config.js
+package-lock.json
+incomingrequests.txt
+onanswer.txt
+onhangup.txt

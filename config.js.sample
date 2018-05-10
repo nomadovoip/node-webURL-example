@@ -1,0 +1,8 @@
+//RENAME THIS FILE TO config.js
+
+module.exports = {
+  'dtype': 'forward', //FOR OPTIONS, https://integrics.com/enswitch/guides/3.13/en/field/subsystems/dtypes/
+  'dnumber': '{{ENTER A MOBILE NUMBER HERE TO TEST}}',
+  'answer_url': '',
+  'hangup_url': ''
+};
